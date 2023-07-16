@@ -5,7 +5,7 @@ git add
 
 # area de preparação
 git commit -m "msg"
-git log
+git log-ver os commits 
 
 # repositorio
 git push
