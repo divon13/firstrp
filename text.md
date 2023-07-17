@@ -5,7 +5,7 @@ git add .git
 
 # area de preparação
 git commit -m "msg"
-git log
+git log // log --online
 
 # repositorio
 git push
