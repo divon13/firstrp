@@ -1,7 +1,7 @@
 # diretorio de trabalho
 git init
 git status
-git add
+git add .
 
 # area de preparação
 git commit -m "msg"
